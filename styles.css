@@ -3,9 +3,8 @@
     margin: 0%;
     box-sizing: border-box;
 }
-.body{
+body{
     background-color: #ccd5ae;
-    margin: 0% 20%;
 }
 form{
     border-radius: 50px;
